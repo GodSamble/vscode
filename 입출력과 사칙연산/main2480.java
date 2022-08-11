@@ -12,6 +12,7 @@ public class main2480 {
         else if(n2==n3){System.out.println(1000+n2*100);}
         //모두 다른 경우
         else{System.out.println((Math.max(n1, Math.max(n2, n3))*100));}
+        scanner.close();
 
 //Q같은눈 : > else if ||혹은 문법은 '세 개' 있을 때 '두 개'로 찢음
 //Q가장큰눈 : Math.max() 문법 사용 or 'max'라는 최대값을 뜻하는 변수를 선언하고 젤 높은값 if문으로 다 기술함.
