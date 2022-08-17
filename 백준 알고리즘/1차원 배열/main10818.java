@@ -17,3 +17,4 @@ public class main10818 {
         System.out.println(min + " " + max);
     }    
 }
+//다양한 방법을 이용해서 메모리랑 작동시간단축을 위한 시도 해볼 것!

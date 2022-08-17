@@ -1,3 +1,4 @@
+package 반복문;
 import java.util.Scanner;
 public class main1110 {
     //스캐너로 값 하나 받고 (O)

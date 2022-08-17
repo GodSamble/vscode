@@ -1,3 +1,4 @@
+package 반복문;
 import java.util.Scanner;
 public class main25304{
     /**

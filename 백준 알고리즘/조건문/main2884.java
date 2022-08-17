@@ -1,3 +1,4 @@
+package 조건문;
 import java.util.Scanner;
 public class main2884 {
     public static void main(String[] args){

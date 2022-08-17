@@ -1,12 +1,13 @@
+package 반복문;
 import java.util.Scanner;
-public class main15552 {
+public class main11021 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int N=scanner.nextInt();
-        for(int i=0; i<N; i++){
+        for(int i=1; i<=N; i++){
             int A=scanner.nextInt();
             int B=scanner.nextInt();
-            System.out.println(A+B);
+            System.out.printf("Case #%d: %d%n",i,A+B);
         }
         
         scanner.close();
