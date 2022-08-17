@@ -1,8 +1,5 @@
 import java.util.Scanner;
 public class main10818 {
-    /**
-     * @param args
-     */
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         
@@ -17,6 +14,7 @@ public class main10818 {
             if(max<score[i]){max=score[i];}
             if(min>score[i]){min=score[i];}
         }
+        scanner.close();
         System.out.println(min + " " + max);
     }    
 }
