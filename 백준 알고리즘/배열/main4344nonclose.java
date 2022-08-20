@@ -1,5 +1,5 @@
-import java.util.Scanner;
-public class main4344 {
+/*import java.util.Scanner;
+public class main4344nonclose {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
@@ -28,3 +28,4 @@ public class main4344 {
 }
 // 중첩 for문과 배열을 정리하며 다루는데, 이 문제 여러번 풀어보면 좋을 듯 함.
 // 필요한 변수 그때 그때 for 문 바로 위에 배치시켜서 보기 편하게 한 것이 인상적임.
+*/
