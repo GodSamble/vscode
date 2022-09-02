@@ -1,7 +1,8 @@
 public class main4673 {
  
-	public static void main(String[] args) {
- 
+	public static void main(String[] args) { //백준 셀프넘버 문제
+        
+
 		boolean[] check = new boolean[10001];	// 1부터 10000이므로
  
 		for (int i = 1; i < 10001; i++){
