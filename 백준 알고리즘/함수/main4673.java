@@ -12,8 +12,8 @@ public class main4673 {
 				check[n] = true;
 			}
 		}
-        //1~10000까지 '체크'해.
- 
+        //1~10000까지 '체크' 하기.
+
 		StringBuilder sb = new StringBuilder();
         
 		for (int i = 1; i < 10001; i++) {
