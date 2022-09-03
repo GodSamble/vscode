@@ -1,4 +1,4 @@
-public class main4673 {
+/*public class main4673 {
  
 	public static void main(String[] args) { //백준 셀프넘버 문제
         
@@ -33,9 +33,8 @@ public class main4673 {
 			sum = sum + (number % 10); // 첫 째 자리수
 			number = number/10;	// 10을 나누어 첫 째 자리를 없앤다
 		}
-    
 		return sum;
 	}
 }    
     //int d(int number)
-    //위 본문에서는 (int number)자리에, (for문의 i)가 들어갈 거임.
+    //위 본문에서는 (int number)자리에, (for문의 i)가 들어갈 거임.*/
