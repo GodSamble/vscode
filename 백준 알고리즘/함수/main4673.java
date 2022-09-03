@@ -1,4 +1,4 @@
-/*public class main4673 {
+public class main4673 {
  
 	public static void main(String[] args) { //백준 셀프넘버 문제
         
@@ -12,7 +12,7 @@
 				check[n] = true;
 			}
 		}
-        //1~10000까지 '체크' 하기.
+        //1~10000까지 '체크' 해
 
 		StringBuilder sb = new StringBuilder();
         
@@ -37,4 +37,4 @@
 	}
 }    
     //int d(int number)
-    //위 본문에서는 (int number)자리에, (for문의 i)가 들어갈 거임.*/
+    //위 본문에서는 (int number)자리에, (for문의 i)가 들어갈 거임.
