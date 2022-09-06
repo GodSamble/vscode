@@ -1,0 +1,294 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch main1000",
+            "request": "launch",
+            "mainClass": "main1000",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main1001",
+            "request": "launch",
+            "mainClass": "main1001",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main1008",
+            "request": "launch",
+            "mainClass": "main1008",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main10171",
+            "request": "launch",
+            "mainClass": "main10171",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main10172",
+            "request": "launch",
+            "mainClass": "main10172",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main10430",
+            "request": "launch",
+            "mainClass": "main10430",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main10718",
+            "request": "launch",
+            "mainClass": "main10718",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main10818",
+            "request": "launch",
+            "mainClass": "main10818",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main10869",
+            "request": "launch",
+            "mainClass": "main10869",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main10926",
+            "request": "launch",
+            "mainClass": "main10926",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main10998",
+            "request": "launch",
+            "mainClass": "main10998",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main1546",
+            "request": "launch",
+            "mainClass": "main1546",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main15552BF",
+            "request": "launch",
+            "mainClass": "main15552BF",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main18108",
+            "request": "launch",
+            "mainClass": "main18108",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main199p",
+            "request": "launch",
+            "mainClass": "main199p",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main25083",
+            "request": "launch",
+            "mainClass": "main25083",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main2557",
+            "request": "launch",
+            "mainClass": "main2557",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main2588",
+            "request": "launch",
+            "mainClass": "main2588",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main3052",
+            "request": "launch",
+            "mainClass": "main3052",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main4673",
+            "request": "launch",
+            "mainClass": "main4673",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main8958",
+            "request": "launch",
+            "mainClass": "main8958",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main10871",
+            "request": "launch",
+            "mainClass": "반복문.main10871",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main10951",
+            "request": "launch",
+            "mainClass": "반복문.main10951",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main10952",
+            "request": "launch",
+            "mainClass": "반복문.main10952",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main11021",
+            "request": "launch",
+            "mainClass": "반복문.main11021",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main11022",
+            "request": "launch",
+            "mainClass": "반복문.main11022",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main1110",
+            "request": "launch",
+            "mainClass": "반복문.main1110",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main15552",
+            "request": "launch",
+            "mainClass": "반복문.main15552",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main2438",
+            "request": "launch",
+            "mainClass": "반복문.main2438",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main2439",
+            "request": "launch",
+            "mainClass": "반복문.main2439",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main25304",
+            "request": "launch",
+            "mainClass": "반복문.main25304",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main2739",
+            "request": "launch",
+            "mainClass": "반복문.main2739",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main8393",
+            "request": "launch",
+            "mainClass": "반복문.main8393",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main1330",
+            "request": "launch",
+            "mainClass": "조건문.main1330",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main14681",
+            "request": "launch",
+            "mainClass": "조건문.main14681",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main2480",
+            "request": "launch",
+            "mainClass": "조건문.main2480",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main2525",
+            "request": "launch",
+            "mainClass": "조건문.main2525",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main2753",
+            "request": "launch",
+            "mainClass": "조건문.main2753",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main2884",
+            "request": "launch",
+            "mainClass": "조건문.main2884",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main9498",
+            "request": "launch",
+            "mainClass": "조건문.main9498",
+            "projectName": "git_and_vsc_example_38ef25df"
+        }
+    ]
+}
