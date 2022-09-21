@@ -1,3 +1,5 @@
+package 배열;
+
 import java.util.Scanner;
 public class main1546 {
     public static void main(String[] args){

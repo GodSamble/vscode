@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CarTest",
+            "request": "launch",
+            "mainClass": "생성자자습.CarTest",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex02",
+            "request": "launch",
+            "mainClass": "과제.Ex02",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListTest",
+            "request": "launch",
+            "mainClass": "LinkedListTest",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch main1546",
+            "request": "launch",
+            "mainClass": "배열.main1546",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListTest",
+            "request": "launch",
+            "mainClass": "LinkedListContet.LinkedListTest",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedList0",
+            "request": "launch",
+            "mainClass": "LinkedListContet.LinkedList0",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListTest",
+            "request": "launch",
+            "mainClass": "universe_day1.LinkedListTest",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
