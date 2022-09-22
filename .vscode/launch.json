@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch NewFrame",
+            "request": "launch",
+            "mainClass": "인터페이스.NewFrame",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch myFrame",
+            "request": "launch",
+            "mainClass": "인터페이스.myFrame",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyFrame",
+            "request": "launch",
+            "mainClass": "인터페이스.MyFrame",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
+            "name": "Launch FrameTest",
+            "request": "launch",
+            "mainClass": "인터페이스.FrameTest",
+            "projectName": "git_and_vsc_example_38ef25df"
+        },
+        {
+            "type": "java",
             "name": "Launch CarTest",
             "request": "launch",
             "mainClass": "생성자자습.CarTest",
